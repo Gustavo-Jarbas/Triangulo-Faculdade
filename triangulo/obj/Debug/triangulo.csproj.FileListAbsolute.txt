@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\triangulo\triangulo\obj\Debug\triangulo.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\triangulo\triangulo\obj\Debug\triangulo.Properties.Resources.resources
+C:\Users\gusta\source\repos\triangulo\triangulo\obj\Debug\triangulo.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\triangulo\triangulo\obj\Debug\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\triangulo\triangulo\bin\Debug\triangulo.exe.config
+C:\Users\gusta\source\repos\triangulo\triangulo\bin\Debug\triangulo.exe
+C:\Users\gusta\source\repos\triangulo\triangulo\bin\Debug\triangulo.pdb
+C:\Users\gusta\source\repos\triangulo\triangulo\obj\Debug\triangulo.exe
+C:\Users\gusta\source\repos\triangulo\triangulo\obj\Debug\triangulo.pdb
+C:\Users\gusta\source\repos\triangulo\triangulo\obj\Debug\triangulo.CalcularTriangulo.resources
